@@ -216,6 +216,14 @@ class Landing extends React.Component {
                     <p>
                     website that contain what user needs, we add sections for hot coffee, cold coffee, coffee beans, and snacks. And this website you can pick an event also you can do a birthday party or graduate party and so on … and we can deliver your order fast.
                     </p>
+                    <Button
+                            className="mt-4"
+                            color="warning"
+                            href="https://coffee-land.github.io/Coffee-Land/Home.html"
+                           
+                          >
+                           click here to visit this website
+                          </Button>
                   </div>
                 </Col>
               </Row>
